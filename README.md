@@ -12,4 +12,4 @@ This project demonstrates how to implement a dark mode toggle using plain HTML, 
 
 ## Usage
 
-You can open  index.HTML File in favourite browser to this web app
+You can open the  index.HTML File in favourite browser to view this web app
